@@ -61,7 +61,7 @@ Once the model weights are loaded and the server starts, you will receive a loca
 
 ## License
 
-This project is made available under an open-source license. Please check the repository files for specific licensing details and terms.
+This project is open-source and licensed under the Apache License 2.0. Please refer to the `LICENSE.txt` file within the repository for full terms and conditions.
 
 ## Contributing
 
